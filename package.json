@@ -1,0 +1,17 @@
+{
+  "name": "express-graphql-server",
+  "version": "1.0.0",
+  "description": "Server & Express GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "author": "pntech20",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
